@@ -31,9 +31,9 @@ function Hero() {
               exceptional digital experiences.    
             </p>
             <ul className={styles.hero_social}>
-              <li><a target="_blank" href="https://github.com/DaySz12/WebAppDev"><IoLogoGithub /></a></li>
-              <li><a target="_blank" href="www.linkedin.com/in/phattaraphon-kongmongkhon-04a3472b9"><IoLogoLinkedin /></a></li>
-              <li><a target="_blank" href="https://www.facebook.com/profile.php?id=100011043182812"><IoLogoFacebook /></a></li>
+              <li><a target="_blank" href="https://github.com/DaySz12"><IoLogoGithub /></a></li>
+              <li><a target="_blank" href="www.linkedin.com/in/phattaraphon-kongmongkhon-04a3472b9https://www.linkedin.com/in/phattaraphon-kongmongkhon-04a3472b9/"><IoLogoLinkedin /></a></li>
+              <li><a target="_blank" href="https://www.facebook.com/pattaraphon.kongmongkhon/"><IoLogoFacebook /></a></li>
               <li><a target="_blank" href="https://www.instagram.com/p_t_p.d/?hl=en"><IoLogoInstagram /></a></li>
             </ul>
           </div>

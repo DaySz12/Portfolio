@@ -1,5 +1,5 @@
 nav {
-    background-color: #5E6668;
+    background-color: #9C4B28;
     overflow: hidden;
     position: relative;
   
@@ -48,7 +48,7 @@ nav {
       & .button {
         width: 100px;
         height: 35px;
-        background-color: white;
+        background-color: black;
         display: flex;
         justify-content: center;
         align-items: center;
@@ -62,7 +62,7 @@ nav {
   
         a {
           text-decoration: none;
-          color: #D49C6B;
+          color: white;
           font-weight: bold;
         }
       }

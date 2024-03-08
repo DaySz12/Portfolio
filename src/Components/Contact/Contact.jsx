@@ -31,16 +31,16 @@ function Contact() {
                     <div className={styles.input_group}>
                         <div>
                             <label htmlFor="first name">First Name</label>
-                            <input type="text" placeholder="eg. Patiwat"></input>
+                            <input type="text" placeholder="eg. Phattaraphon"></input>
                         </div>
                         
                         <div>
                             <label htmlFor="last name">Last Name</label>
-                            <input type="text" placeholder="eg. Chiangmoon"></input>
+                            <input type="text" placeholder="eg. Konggmongkhon"></input>
                         </div>
                     </div>
                     <label htmlFor="email address">Email Address</label>
-                    <input type="email" placeholder="eg. Alastor@gmail.com" />
+                    <input type="email" placeholder="eg. @gmail.com" />
                     <label htmlFor="message">Your message</label>
                     <textarea name="" id="" cols="30" rows="10" placeholder="Type here"></textarea>
                     <button type='submit'>Submit</button>
